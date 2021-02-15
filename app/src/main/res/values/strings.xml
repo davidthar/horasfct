@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HorasFCT</string>
+    <string name="real">REAL</string>
+    <string name="ioc">IOC</string>
+    <string name="titulo">Horas FCT</string>
+    <string name="add_hours">Añadir horas:</string>
+    <string name="left">Faltan:</string>
+    <string name="current">Actuales:</string>
+</resources>
